@@ -1,2 +1,2 @@
-# Blazingbeta.github.io
-Robo Revolt Web Version
+# Brendan Cleveland
+Repo setup to automatically hosts my resume
